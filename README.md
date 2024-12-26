@@ -82,7 +82,7 @@ This is a simple backend for a Micro Instagram application built with Node.js, E
 
 2.  **Access the API:**
 
-    -   The API will be available at `http://localhost:3000` (unless you change the port in your code).
+    -   The API will be available at `http://localhost:3001` (unless you change the port in your code).
 
 ## API Endpoints
 
@@ -106,7 +106,7 @@ You can use tools like Postman ([https://www.postman.com/](https://www.postman.c
 
 1.  **Create a new request.**
 2.  **Set the request method (GET, POST, PUT, DELETE).**
-3.  **Enter the URL (e.g., `http://localhost:3000/users`).**
+3.  **Enter the URL (e.g., `http://localhost:3001/users`).**
 4.  **Add a request body (in JSON format) for POST and PUT requests.**
 5.  **Send the request.**
 
