@@ -1,4 +1,5 @@
 const { Post, User } = require("../models");
+//all the function
 
 const postService = {
   getAllPosts: async () => {
